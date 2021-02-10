@@ -1,0 +1,51 @@
+h1
+{color:aqua;
+    background-color: blue;
+    font-family: cursive;
+border: 5px;
+padding: 2
+    0px;
+    position: sticky;
+    left:100px;
+    top:10;
+}
+
+h2
+{color:aqua;
+    background-color: blueviolet;
+    font-family: cursive;
+    border: 5px;
+padding:20px;
+ position: relative;
+    left:auto;
+    bottom:auto;}
+ p
+
+{color:black;
+    background-color: lavender;
+    font-family: cursive;
+border: 5px;
+}
+ol 
+{
+    background-color: antiquewhite;
+border:5;
+padding: 20;}
+li{color:darkgreen;
+background-color:antiquewhite;
+    border: :10px;
+ position: relative;
+    left:auto;
+    bottom:auto;}
+ul
+{
+    background-color:blanchedalmond;
+border: 5px;
+padding-right: 30px;}
+.green
+{color:green;
+background-color: blanchedalmond;
+    border: :10px;
+}
+
+
